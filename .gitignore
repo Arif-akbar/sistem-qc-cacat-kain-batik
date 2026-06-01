@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+dataset/
+dataset_split/
+
+# Model hasil training
+models/
+*.keras
+*.h5
+*.pb
+
+# TensorBoard
+runs/
+logs/
+
+# Streamlit cache
+.streamlit/cache/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
